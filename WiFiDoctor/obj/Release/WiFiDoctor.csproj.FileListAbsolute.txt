@@ -1,0 +1,9 @@
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\bin\Release\WiFiDoctor.exe.config
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\bin\Release\WiFiDoctor.exe
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\bin\Release\WiFiDoctor.pdb
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.csprojResolveAssemblyReference.cache
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.Form1.resources
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.Properties.Resources.resources
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.csproj.GenerateResource.Cache
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.exe
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Release\WiFiDoctor.pdb

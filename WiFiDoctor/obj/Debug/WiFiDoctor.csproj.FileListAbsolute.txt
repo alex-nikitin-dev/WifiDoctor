@@ -1,0 +1,12 @@
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\bin\Debug\WiFiDoctor.exe.config
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\bin\Debug\WiFiDoctor.exe
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\bin\Debug\WiFiDoctor.pdb
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.csprojResolveAssemblyReference.cache
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.Form1.resources
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.Properties.Resources.resources
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.csproj.GenerateResource.Cache
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.exe
+M:\GDrive\18.2\Programs (not remove)\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.pdb
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\bin\Debug\WiFiDoctor.exe.config
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.exe
+D:\GDisk\Develop\WiFiDoctor\WiFiDoctor\obj\Debug\WiFiDoctor.pdb
